@@ -1,2 +1,5 @@
 # CollectionsApp_FinalProject
 The final project for Mobile Media Development (MC 4327) where I made an app where you can store and organize various text, link, and image items.
+For this assignment, I used Claude and Gemini to generate the code according to my vision for the design and functionality. I acted more like a manager than a coder, overseeing the AI's outputs, testing for bugs, and prompting for new features and improvements to better the user experience. 
+The user can create Collections and add Items (text notes, labeled links, and images), allowing them to organize media however they choose. The design is minimal, with subtle emphasis on buttons and app structure. The data is entirely user-generated, with the content soley relying on what the user uploads into their collections.
+To builf this app, I started by prompting Claude to help me build a simple collection-based app that is friendly to new coders, with explanations for the core coding elements at every step. I prompted over a month, working with errors and model limitations, to slowly add new features and fix bugs. 
